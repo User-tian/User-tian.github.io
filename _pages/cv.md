@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Please refer to [my CV](https://user-tian.github.io/personal_homepage/files/CV_baotong%20Tian.pdf)
+# Please refer to [my CV](https://User-tian.github.io/personal_homepage/files/CV_Baotong%20Tian.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
