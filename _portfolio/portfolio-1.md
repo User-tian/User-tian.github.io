@@ -1,7 +1,10 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Music: Autoplayer (自控玩家)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[link]()
+This song was written for the November 2021 student event at Tsinghua University's Department of Automation. I am in charge of the lyrics composition, melody composition, arrangement and part of the singing (the first vocal from the beginning). The lyrics are mainly about encouraging everyone to be the master of their own life, to find light in the darkness of the night and to gain freedom from suffering.
+
+The main difficulty I’ve faced is that the overall style of the song must align with the theme of the festival. The rock band collection is not an arrangement I am skilled at writing; I am more comfortable writing love songs or sad songs. I eventually overcame these difficulties and I’m really proud of this piece.
