@@ -3,8 +3,10 @@ title: "Portfolio item number 1"
 excerpt: "Music: _Autoplayer (自控玩家)_"
 collection: portfolio
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1488737309&auto=1&height=66"></iframe>
 
 [Music Link]()
+
 
 This song was written for the November 2021 student event at Tsinghua University's Department of Automation. I am in charge of the lyrics composition, melody composition, arrangement and part of the singing (the first vocal from the beginning). The lyrics are mainly about encouraging everyone to be the master of their own life, to find light in the darkness of the night and to gain freedom from suffering.
 
