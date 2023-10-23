@@ -18,8 +18,9 @@ My research interests are in MIR (music technology), particularly incorporating 
 
 ## Honors and Awards
 
-- Tsinghua Arts and Culture Merit Scholarship, 2021&2022
-- Friends of Tsinghua-Weichai Power Scholarship, 2022( Received for excelling GPA throughout the school year)
+- Tsinghua Arts and Culture Merit Scholarship, 2021 & 2022
+- Academic Excellence Award, 2022 & 2023
+- Tsinghua Excellence in Science and Technology Innovation Award， 2023
   
 ## 🎼 Musical Experience
 
