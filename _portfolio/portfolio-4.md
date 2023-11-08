@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 4"
-excerpt: "Code & Paper:_SimSHAP_"
+excerpt: "Code & Paper: _SimSHAP_"
 collection: portfolio
 ---
 
