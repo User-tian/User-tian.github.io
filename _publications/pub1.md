@@ -7,7 +7,3 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2311.01010.pdf'
 citation: 'Zhang, B., Tian, B., Zheng, W., Zhou, J., & Lu, J. (2023). Exploring Unified Perspective For Fast Shapley Value Estimation. arXiv preprint arXiv:2311.01010.'
 ---
-
-[Download paper here](https://arxiv.org/pdf/2311.01010.pdf)
-
-Recommended citation: Zhang, B., Tian, B., Zheng, W., Zhou, J., & Lu, J. (2023). Exploring Unified Perspective For Fast Shapley Value Estimation. arXiv preprint arXiv:2311.01010.
