@@ -11,9 +11,9 @@ title                    : "田葆同 / Acadamic Page"
 title_separator          : "-"
 name                     : &name "Baotong Tian"
 description              : &description "Department of Automation, Tsinghua University. Senior undergraduate in Department of Automation, Tsinghua University, working on explainable machine learning, passionate about AI music and MIR."
-url                      : https://user-tian.github.io/personal_homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://user-tian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "User-tian/personal_homepage"
+repository               : "User-tian/User-tian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
