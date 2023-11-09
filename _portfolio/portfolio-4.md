@@ -4,7 +4,7 @@ excerpt: "Code & Paper: _SimSHAP_"
 collection: portfolio
 ---
 
-<a href="https://User-tian.github.io/personal_homepage/files/SimSHAP.zip" target="_blank">Code Zip File</a>
+<a href="https://User-tian.github.io/files/SimSHAP.zip" target="_blank">Code Zip File</a>
 
 [Paper Link](https://arxiv.org/abs/2311.01010)
 
