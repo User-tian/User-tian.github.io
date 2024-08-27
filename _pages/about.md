@@ -13,9 +13,7 @@ I received my B.E. Degree in Automation from Tsinghua University in 2024. I was 
 
 My research interests are in Machine Learning and its application to audio domain. I'm interested in speech processing and MIR (music technology). Currently I'm working on audio-visual speech diarization systems. I also have some interest in deep learning theory.
 
-% ## 🔥 News
-
-% 2023.09: 🎉 Our work on simple and fast Shapley value estimation was submitted to ICLR 2024!
+## 🔥 News
 
 ## Honors and Awards
 
