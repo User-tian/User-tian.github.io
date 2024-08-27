@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in the Department of Automation at Tsinghua University. I will be receiving my Bachelor's degree from the Department of Automation in 2024. I’m also a member of the [Tong(General Artificial Intelligence) class](https://tongclass.ac.cn/author/baotong-tian/). Currently, I'm working with Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/).
+Hi! I'm Baotong. I am a first-year Ph.D. student at the [Audio and Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with Prof. [Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). 
+I received my B.E. Degree in Automation from Tsinghua University in 2024. I was also a member of the [Tong(General Artificial Intelligence) class](https://tongclass.ac.cn/author/baotong-tian/). I worked with Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/) in [i-VisionGroup](http://ivg.au.tsinghua.edu.cn/) on explainable AI.
 
-My research interests are in MIR (music technology), particularly incorporating AI in music information retrieval tasks and controllable music generation. I also have some interest in deep learning theory. I'm currently working in [i-VisionGroup](http://ivg.au.tsinghua.edu.cn/) on explainable AI.
+My research interests are in Machine Learning and its application to audio domain. I'm interested in speech processing and MIR (music technology), controllable music generation. Currently I'm working on audio-visual speech diarization systems. I also have some interest in deep learning theory.
 
-## 🔥 News
+% ## 🔥 News
 
-2023.09: 🎉 Our work on simple and fast Shapley value estimation was submitted to ICLR 2024!
+% 2023.09: 🎉 Our work on simple and fast Shapley value estimation was submitted to ICLR 2024!
 
 ## Honors and Awards
 
