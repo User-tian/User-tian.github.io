@@ -87,7 +87,7 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "baotongtian0527@gmail.com"
+  email            : "baotong.tian@rochester.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-3686-8854"
   pinterest        :
   soundcloud       : "https://soundcloud.com/michael-tian-107880864"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
