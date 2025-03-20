@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Music: _Dimming_"
+title: "Music: _Dimming_"
+excerpt: ""
 collection: portfolio
 ---
 
