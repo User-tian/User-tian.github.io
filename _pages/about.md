@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm Baotong. I am a first-year Ph.D. student at the [Audio and Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with Prof. [Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). 
 I received my B.E. Degree in Automation from Tsinghua University in 2024. I was also a member of the [Tong(General Artificial Intelligence) class](https://tongclass.ac.cn/author/baotong-tian/). I worked with Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/) in [i-VisionGroup](http://ivg.au.tsinghua.edu.cn/) on explainable AI.
 
-My research interests are in Machine Learning and its application in the audio domain. I'm interested in speech processing and MIR (music technology). Currently I'm working on audio-visual speech diarization systems. I also have some interest in deep learning theory.
+My research interests are in Machine Learning and its application in the audio domain. I'm interested in speech processing and MIR (music technology). Currently I'm working on streaming voice conversion, audio deepfake detection and music transcription. I also have some interest in deep learning theory.
 
 ## 🔥 News
 
