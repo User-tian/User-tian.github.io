@@ -39,8 +39,6 @@ layout: default
         {% elsif page.collection == 'publications' %}
           {% if page.authors %}
             <p class="page__authors">{{ page.authors }}</p>
-          {% elsif page.citation %}
-            <p class="page__authors">{{ page.citation | split: '(' | first | strip }}</p>
           {% endif %}
           {% if page.status == 'preprint' %}
             <p>Preprint on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
