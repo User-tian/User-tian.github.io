@@ -14,7 +14,8 @@ I received my B.E. Degree in Automation from Tsinghua University in 2024. I was 
 My research interests are in Machine Learning and its application in the audio domain. I'm interested in speech processing and MIR (music technology). Currently I'm working on streaming voice conversion, audio deepfake detection and music transcription. I also have some interest in deep learning theory.
 
 ## 🔥 News
-
+- 2025.09: Thrilled to attend ISMIR 2025 as a volunteer!
+- 2025.09: One papaer accepted by [ASRU 2025](https://2025.ieeeasru.org/)
 - 2025.07: I received a travel grant for [ISMIR 2025](https://ismir2025.ismir.net/)!
 - 2025.06: One paper accepted by [Interspeech 2025](https://interspeech2025.org/)!
 
