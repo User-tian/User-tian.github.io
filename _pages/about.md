@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm Baotong. I am a second-year Ph.D. student at the [Audio and Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with Prof. [Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). 
 I received my B.E. Degree in Automation from Tsinghua University in 2024. I was also a member of the [Tong(General Artificial Intelligence) class](https://tongclass.ac.cn/author/baotong-tian/). I worked with Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/) in [i-VisionGroup](http://ivg.au.tsinghua.edu.cn/) on explainable AI.
 
-My research interests are in **controllable** and **deployable** audio intelligence, with the focus on both speech and music. Currently I'm working on streaming audio intelligence and performance music synthesis. I also have some interest in deep learning theory.
+My research interests are in **controllable** and **deployable** audio intelligence, with the focus on both speech and music. Currently I'm working on streaming speech generation and performance music synthesis. I also have some interest in deep learning theory.
 
 ## 🔥 News
 - 2026.06: The project which I participated as an audio enginner has been published by [UR News Center](https://www.rochester.edu/newscenter/pharyngoceles-throat-condition-custom-neck-brace-707492/)!
