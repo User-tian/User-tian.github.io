@@ -14,11 +14,11 @@ I received my B.E. Degree in Automation from Tsinghua University in 2024. I was 
 My research interests are in **controllable** and **deployable** audio intelligence, with the focus on both speech and music. Currently I'm working on streaming audio intelligence and performance music synthesis. I also have some interest in deep learning theory.
 
 ## 🔥 News
-- 2026.06: The project which I participated as an audio enginner has been published by [UR news center](https://www.rochester.edu/newscenter/pharyngoceles-throat-condition-custom-neck-brace-707492/)
-- 2026.05: I joined Adobe as a Research Intern, working with [Ke Chen](https://www.knutchen.com/), [Yunyun Wang](https://research.adobe.com/person/yunyun-wang/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/).
+- 2026.06: The project which I participated as an audio enginner has been published by [UR News Center](https://www.rochester.edu/newscenter/pharyngoceles-throat-condition-custom-neck-brace-707492/)!
+- 2026.05: I joined Adobe as a Research Intern, working with [Ke Chen](https://www.knutchen.com/), [Yunyun Wang](https://research.adobe.com/person/yunyun-wang/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/)!
 - 2025.11: I attended [SANE 2025](https://www.saneworkshop.org/sane2025/) and presented the [Conan](https://arxiv.org/abs/2507.14534) paper!
 - 2025.09: Thrilled to attend ISMIR 2025 as a volunteer!
-- 2025.09: One paper accepted by [ASRU 2025](https://2025.ieeeasru.org/)
+- 2025.09: One paper accepted by [ASRU 2025](https://2025.ieeeasru.org/)!
 - 2025.07: I received a travel grant for [ISMIR 2025](https://ismir2025.ismir.net/)!
 - 2025.06: One paper accepted by [Interspeech 2025](https://interspeech2025.org/)!
 
